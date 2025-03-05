@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Prathamesh Herlekar
 - 👀 I’m interested in Coding, Electronics, and DIY project
-- 🌱 I’m currently learning React JS.
+
 
 
 <!---
